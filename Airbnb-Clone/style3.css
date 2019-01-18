@@ -1,0 +1,191 @@
+li{
+	list-style: none;
+	float: right;
+	padding: 5px 14px;
+	font-family: Circular;
+
+}
+.bodyone{
+	background-image: url("/Users/david/Documents/forJeremi/Airbnb-Clone/resources/rohit-tandon-411851-unsplash.jpg");
+	width:  100%;
+	height: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0px;
+
+}
+
+.bodyone-logo img{
+	float: left;
+	width: 90px;
+	height: 30px;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+
+.bodyone-list{
+	float: right;
+}
+
+.bodyone-list a{
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+
+.booking-form{
+	color:  #484848;
+	font-family: Circular;
+	padding-left: 50px;
+	padding-top: 100px;
+
+}
+
+input{
+	width: 350px;
+	height: 45px;
+	color: #EFEFEF;
+	margin-left: 80px;
+	border-radius: 8px;
+	border: 1px solid #EBEBEB;
+
+
+}
+
+input .where{
+	width: 355px;
+}
+.checkin{
+	padding-left: 5px;
+}
+
+.checkout{
+	padding-left: 5px;
+	border-radius: 8px;
+	
+}
+
+.booking-form p{
+	padding-left: 80px;
+	padding-bottom: 0px;
+}
+h1{
+	padding-left: 80px;
+	padding-top: 45px;
+}
+
+.guest-list{
+	padding-left: 80px;
+	border: 0px solid #484848;
+	border-radius: 8px;
+
+	
+
+	
+}
+
+.guest-list select{
+  width: 350px;
+  color: #EFEFEF;
+  height: 45px;
+  background-color: #FFFFFF;
+  line-height: 1;
+  border: 1;
+  border-color: #EBEBEB;
+  padding-left: 15px;
+  font-family: Circular;
+  font-size: 19px;
+
+
+
+
+  
+}
+button{
+	width: 100px;
+	height: 45px;
+	border-radius: 8px;
+	font-size: 20px;
+	font-family: Circular;
+	color: #FFFFFF;
+
+	
+
+
+}
+form{
+	border-radius: 8px;
+	margin-left: 30px;
+	margin-right: 660px;
+	margin-top: 10px;
+	padding-right: 5px;
+
+}
+
+.earn p{
+	font-family: Circular;
+	color: #FFFFFF;
+	padding-left: 220px;
+}
+.earn a {
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+.over .unique {
+	font-family: Circular;
+	color: #FFFFFF;
+
+
+
+}
+
+.bodytwo h1{
+	font-family: Circular;
+	color: #484848;
+	font-size: 27px;
+	padding-top: 2px;
+}
+
+.bodytwo .homes{
+	width: 100px;
+	padding-left: 80px;
+}
+
+.bodytwo p{
+	font-size: 30px;
+	font-family: Circular;
+
+}
+
+.hot .fresh{
+	width: 350px;
+	height: 230px;
+	padding-left: 80px;
+	font-family: 
+}
+
+.hot .chilled{
+	width: 350px;
+	height: 230px;
+	padding-left: 30px;
+}
+
+.hot .buy{
+	width: 350px;
+	height: 230px;
+	padding-left:30px ;
+}
+
+
+
+
+
+
+
+
+
+
+

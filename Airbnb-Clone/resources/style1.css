@@ -1,0 +1,60 @@
+li{
+	list-style: none;
+	float: right;
+	padding: 5px 12px 5px 12px;
+	font-family: Circular;
+}
+
+body{
+	background-image: url("/Users/david/Documents/resources/rohit-tandon-411851-unsplash.jpg");
+	background-size: 100%;
+}
+.header-logo img{
+	background-color: #CED563;
+	float: left;
+	width: 90px;
+	height: 50px;
+	padding-top: 5px;
+
+}
+
+.header-list{
+	float: right;
+
+}
+
+.booking-form{
+    color: #484848;
+	font-family: Circular;
+	padding-left: 50px;
+	padding-top: 100px;
+
+}
+.booking-form h1{
+	font-size: 35px
+}
+input{
+	width: 300px;
+	height: 45px;
+	margin-left: 45px;
+
+}
+
+button{
+	background-color: #FF5A5F;
+	width: 90px;
+	height: 50px;
+	margin-left: 250px;
+	border-radius: 8px;
+}
+
+form{
+	margin-left: 30px;
+	margin-right: 680px;
+	margin-top: 50px;
+}
+option{
+	width: 300px;
+	height: 45px;
+	margin-left: 45px;
+}
